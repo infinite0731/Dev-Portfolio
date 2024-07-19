@@ -9,7 +9,7 @@ const filterKey = [
 const projectData = [
   {
     type: ["nft", "game"],
-    role: "Lead Blockchain Developer",
+    role: "Galactic Kingdom",
     skills: ["BTC Ordinals", "Node.js", "Next.js", "Web3.js", "Web Socket", "Stress Test"],
     imgUrl: "imgs/works/work1.png",
     summary:
@@ -18,7 +18,7 @@ const projectData = [
   },
   {
     type: ["nft", "game"],
-    role: "BTC Web3 Developer",
+    role: "The Rune Guardians Game",
     skills: ["BTC Runes", "Next.js", "Web3.js", "Figma"],
     imgUrl: "imgs/works/work2.jpg",
     summary:
@@ -27,7 +27,7 @@ const projectData = [
   },
   {
     type: ["nft"],
-    role: "Solana Backend Developer",
+    role: "Foster Marketplace",
     skills: ["Rust","Supabase", "Anchor", "Web3.js", "Solana", "Smart Contract"],
     imgUrl: "imgs/works/work4.png",
     summary:
@@ -36,7 +36,7 @@ const projectData = [
   },
   {
     type: ["bot"],
-    role: "Solana Developer",
+    role: "Solana Sniper & MEME Coin Bot",
     skills: ["Raydium SDK", "Jito Bundle", "Next.js", "Node.js", "Solana Web3"],
     imgUrl: "imgs/works/work3.png",
     summary:
@@ -45,7 +45,7 @@ const projectData = [
   },
   {
     type: ["game"],
-    role: "Solana Smart Contract Developer",
+    role: "Space Falcon",
     skills: ["Rust", "Anchor", "Node.js", "Next.js","Web3.js", "Tokenomics"],
     imgUrl: "imgs/works/work5.png",
     summary:
@@ -54,7 +54,7 @@ const projectData = [
   },
   {
     type: ["defi"],
-    role: "Bitcoin Developer",
+    role: "DexOrdi",
     skills: ["BRC-20", "Cybord Pool", "Node.js", "Next.js","Web3.js"],
     imgUrl: "imgs/works/work12.png",
     summary:
@@ -63,7 +63,7 @@ const projectData = [
   },
   {
     type: ["game"],
-    role: "Full Stack Web3 Developer",
+    role: "PlayZelo",
     skills: ["Next.js", "WebGL", "Node.js", "Web3.js", "Tatum API"],
     imgUrl: "imgs/works/work7.png",
     summary:
@@ -72,7 +72,7 @@ const projectData = [
   },
   {
     type: ["game"],
-    role: "Game Developer",
+    role: "Mechagotchis",
     skills: ["Node.js", "Web3.js", "Unity"],
     imgUrl: "imgs/works/work8.png",
     summary:
@@ -81,7 +81,7 @@ const projectData = [
   },
   {
     type: ["nft"],
-    role: "Blockchain Developer",
+    role: "Bloodloop",
     skills: ["Solidity", "Node.js", "Next.js", "Web3.js", "MongoDB", "API Integration"],
     imgUrl: "imgs/works/work6.png",
     summary:
@@ -90,7 +90,7 @@ const projectData = [
   },
   {
     type: ["defi"],
-    role: "Blockchain Developer",
+    role: "360 Protocol",
     skills: ["Solidity", "Node.js", "Next.js", "Web3.js", "Uniswap SDK"],
     imgUrl: "imgs/works/work9.png",
     summary:
@@ -99,8 +99,8 @@ const projectData = [
   },
   {
     type: "defi",
-    role: "Full Stack Developer",
-    skills: ["React.js", "Node.Jj", "Token Bridge", "DEX"],
+    role: "Justshift",
+    skills: ["React.js", "Node.js", "Token Bridge", "DEX"],
     imgUrl: "imgs/works/work10.png",
     summary:
       "The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience.",
@@ -108,7 +108,7 @@ const projectData = [
   },
   {
     type: "defi",
-    role: "Blockchain Developer",
+    role: "Lucia Protocol",
     skills: ["Solidity", "Node.js", "Next.js", "Web3.js", "ZK Tech"],
     imgUrl: "imgs/works/work11.png",
     summary: "Lucia is a non custodial lending and borrowing protocol that aims to grant individuals and startups access to credit through a foundation of trust.",
