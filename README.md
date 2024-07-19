@@ -10,7 +10,7 @@
 
 ### 1. Clone this repository
 
-Using `git clone https://github.com/infnite0731/Portfolio`
+Using `git clone https://github.com/infnite0731/Dev-Portfolio`
 
 ### 2. Install dependencies
 
