@@ -26,15 +26,6 @@ const projectData = [
     siteUrl: "https://world-map-game-v2.vercel.app/",
   },
   {
-    type: ["bot"],
-    role: "Solana Developer",
-    skills: ["Raydium SDK", "Jito Bundle", "Next.js", "Node.js", "Solana Web3"],
-    imgUrl: "imgs/works/work3.png",
-    summary:
-      "This Solana Bot Package is designed to automate interactions with the Raydium decentralized exchange and the Solana blockchain. The package includes two main bots: the Raydium Sniper Bot and the Meme Coin Bot.",
-    siteUrl: "https://solana-trading-bot-fe-production.up.railway.app/sniper",
-  },
-  {
     type: ["nft"],
     role: "Solana Backend Developer",
     skills: ["Rust","Supabase", "Anchor", "Web3.Js", "Solana", "Smart Contract"],
@@ -44,6 +35,15 @@ const projectData = [
     siteUrl: "https://fostermarketplace.app/",
   },
   {
+    type: ["bot"],
+    role: "Solana Developer",
+    skills: ["Raydium SDK", "Jito Bundle", "Next.js", "Node.js", "Solana Web3"],
+    imgUrl: "imgs/works/work3.png",
+    summary:
+      "This Solana Bot Package is designed to automate interactions with the Raydium decentralized exchange and the Solana blockchain. The package includes two main bots: the Raydium Sniper Bot and the Meme Coin Bot.",
+    siteUrl: "https://solana-trading-bot-fe-production.up.railway.app/sniper",
+  },
+  {
     type: ["game"],
     role: "Solana Smart Contract Developer",
     skills: ["Rust", "Anchor", "Node.js", "Next.js","Web3.Js", "Tokenomics"],
@@ -51,6 +51,15 @@ const projectData = [
     summary:
       "Space Falcon is a gaming studio & tech startup scaling the Web3 gaming experience and revolutionizing virtual adventures with GameFi initiatives. We created $FCON token and Sol staking platform there and enabled users to stake their tokens to get reward",
     siteUrl: "https://spacefalcon.com/",
+  },
+  {
+    type: ["defi"],
+    role: "Bitcoin Developer",
+    skills: ["BRC-20", "Cybord Pool", "Node.js", "Next.js","Web3.Js"],
+    imgUrl: "imgs/works/work12.png",
+    summary:
+      "BRC-20 & CBRC-20 Token Exchanage and Staking Project. DexOrdi provides a seamless and intuitive trading environment that empowers users to explore the world of decentralized trading on the Bitcoin network.",
+    siteUrl: "https://dexordi.com/",
   },
   {
     type: ["nft"],

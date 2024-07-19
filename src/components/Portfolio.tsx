@@ -38,7 +38,7 @@ export default function Portfolio() {
         <div className="max-w-[880px] md:min-w-[700px] lg:min-w-[880px] flex items-center justify-center flex-col gap-7 mb-[120px] mt-[90px]">
           <Fade delay={1000} triggerOnce={true}>
             <h1 className="uppercase md:text-[2em] text-2xl text-center font-extrabold dark:text-[#cacaca] text-[#434343]">
-              My Recently Works
+              My Recent Works
             </h1>
           </Fade>
           <Fade delay={1000} triggerOnce={true}>
